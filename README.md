@@ -4,9 +4,9 @@ Tips:
 
 1. Init vs Clone
 Caso seja um novo projeto, criar o ficheiro de git no projeto:
-> git init
+* * * git init
 Depois associar a um repositório:
-> git remote add origin git@github.com:xxxxxxxxxxxxx
+*** git remote add origin git@github.com:xxxxxxxxxxxxx
 
 Caso já exista um repositório com código:
 > git clone xxxxxxxxxxxxxx
